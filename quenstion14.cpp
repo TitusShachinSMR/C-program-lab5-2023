@@ -12,9 +12,9 @@ for(i=0;i<n;i++)
 { l=l+1;
 }
 }
-if(l>n/2)
+if(l+1>n/2)
 { m=i;t=t+1;break;
-}
+}l=0;
 }
 if(t==0)
 {printf("no major");
