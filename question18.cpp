@@ -11,7 +11,7 @@ for(i=0;i<n;i++)
 { l=l+1;
 b[l-1]=a[i];
 }
-e   lse{ m=m+1;
+else{ m=m+1;
 c[m-1]=a[i];
 }
 }
