@@ -1,3 +1,5 @@
+//finding missing integer in the range [1,n]
+
 #include<stdio.h>
 int main()
 { int i,j,l;
